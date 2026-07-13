@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610">
+<defs>
+  <linearGradient id="borderGrad-dark" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#7C3AED"/>
+    <stop offset="50%" stop-color="#22D3EE"/>
+    <stop offset="100%" stop-color="#10B981"/>
+  </linearGradient>
+  <radialGradient id="bgGlow-dark" cx="30%" cy="20%" r="80%">
+    <stop offset="0%" stop-color="#0B1120"/>
+    <stop offset="100%" stop-color="#050816"/>
+  </radialGradient>
+  <filter id="softGlow-dark" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <mask id="revealMask-dark" maskUnits="userSpaceOnUse" x="0" y="0" width="1180" height="610">
+    <rect x="0" y="0" width="1180" height="0" fill="#fff">
+      <animate attributeName="height" from="0" to="590" dur="2.4s" begin="0.15s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </mask>
+<clipPath id="lc-dark-0"><rect x="40" y="44" width="0" height="24"><animate attributeName="width" from="0" to="1100" dur="0.35s" begin="0.70s" fill="freeze"/></rect></clipPath><clipPath id="lc-dark-1"><rect x="40" y="66" width="0" height="24"><animate attributeName="width" from="0" to="1100" dur="0.35s" begin="0.74s" fill="freeze"/></rect></clipPath><clipPath id="lc-dark-2"><rect x="40" y="88" width="0" height="24"><animate attributeName="width" from="0" to="1100" dur="0.35s" begin="0.79s" fill="freeze"/></rect></clipPath><clipPath id="lc-dark-3"><rect x="40" y="110" width="0" height="24"><animate attributeName="width" from="0" to="1100" dur="0.35s" begin="0.83s" fill="freeze"/></rect></clipPath><clipPath id="lc-dark-4"><rect x="40" y="132" width="0" height="24"><animate attributeName="width" from="0" to="1100" dur="0.35s" begin="0.88s" fill="freeze"/></rect></clipPath><clipPath id="lc-dark-5"><rect x="40" y="154" width="0" height="24"><animate attributeName="width" from="0" to="1100" dur="0.35s" begin="0.92s" fill="freeze"/></rect></clipPath><clipPath id="lc-dark-6"><rect x="40" y="176" width="0" height="24"><animate attributeName="width" from="0" to="1100" dur="0.35s" begin="0.97s" fill="freeze"/></rect></clipPath><clipPath id="lc-dark-7"><rect x="40" y="198" width="0" height="24"><animate attributeName="width" from="0" to="1100" dur="0.35s" begin="1.01s" fill="freeze"/></rect></clipPath><clipPath id="lc-dark-8"><rect x="40" y="220" width="0" height="24"><animate attributeName="width" from="0" to="1100" dur="0.35s" begin="1.06s" fill="freeze"/></rect></clipPath><clipPath id="lc-dark-9"><rect x="40" y="242" width="0" height="24"><animate attributeName="width" from="0" to="1100" dur="0.35s" begin="1.10s" fill="freeze"/></rect></clipPath><clipPath id="lc-dark-10"><rect x="40" y="264" width="0" height="24"><animate attributeName="width" from="0" to="1100" dur="0.35s" begin="1.15s" fill="freeze"/></rect></clipPath><clipPath id="lc-dark-11"><rect x="40" y="286" width="0" height="24"><animate attributeName="width" from="0" to="1100" dur="0.35s" begin="1.19s" fill="freeze"/></rect></clipPath><clipPath id="lc-dark-12"><rect x="40" y="308" width="0" height="24"><animate attributeName="width" from="0" to="1100" dur="0.35s" begin="1.24s" fill="freeze"/></rect></clipPath><clipPath id="lc-dark-13"><rect x="40" y="330" width="0" height="24"><animate attributeName="width" from="0" to="1100" dur="0.35s" begin="1.28s" fill="freeze"/></rect></clipPath><clipPath id="lc-dark-14"><rect x="40" y="352" width="0" height="24"><animate attributeName="width" from="0" to="1100" dur="0.35s" begin="1.33s" fill="freeze"/></rect></clipPath><clipPath id="lc-dark-15"><rect x="40" y="374" width="0" height="24"><animate attributeName="width" from="0" to="1100" dur="0.35s" begin="1.38s" fill="freeze"/></rect></clipPath><clipPath id="lc-dark-16"><rect x="40" y="396" width="0" height="24"><animate attributeName="width" from="0" to="1100" dur="0.35s" begin="1.42s" fill="freeze"/></rect></clipPath>
+</defs>
+<g mask="url(#revealMask-dark)">
+  <rect x="0" y="0" width="1180" height="610" rx="18" fill="url(#bgGlow-dark)"/>
+  <rect x="4" y="4" width="1172" height="602" rx="16" fill="none" stroke="url(#borderGrad-dark)" stroke-width="2" filter="url(#softGlow-dark)"/>
+
+  <text x="24" y="34" font-family="monospace" font-size="14" fill="#10B981">chandru@devos ~ %</text>
+  <text x="24" y="34" font-family="monospace" font-size="14" fill="#64748B" text-anchor="end" x2="1156">
+  </text>
+  <text x="1156" y="34" font-family="monospace" font-size="12" fill="#64748B" text-anchor="end">SYSTEM.INFO</text>
+
+  <g clip-path="url(#lc-dark-0)"><text x="40" y="60" font-family="monospace" font-size="14" fill="#E5E7EB"><tspan fill="#7DD3FC">Subject</tspan><tspan fill="#64748B">: ..................... </tspan>Chandru</text></g><g clip-path="url(#lc-dark-1)"><text x="40" y="82" font-family="monospace" font-size="14" fill="#E5E7EB"><tspan fill="#7DD3FC">Role</tspan><tspan fill="#64748B">: ........................ </tspan>Power BI Developer · PL-300 Certified</text></g><g clip-path="url(#lc-dark-2)"><text x="40" y="104" font-family="monospace" font-size="14" fill="#E5E7EB"><tspan fill="#7DD3FC">Origin</tspan><tspan fill="#64748B">: ...................... </tspan>Coimbatore, Tamil Nadu, India</text></g><g clip-path="url(#lc-dark-3)"><text x="40" y="126" font-family="monospace" font-size="14" fill="#E5E7EB"><tspan fill="#7DD3FC">Education</tspan><tspan fill="#64748B">: ................... </tspan>B.Tech AI &amp; Data Science</text></g><g clip-path="url(#lc-dark-4)"><text x="40" y="148" font-family="monospace" font-size="14" fill="#E5E7EB"><tspan fill="#7DD3FC">Status</tspan><tspan fill="#64748B">: ...................... </tspan>Training • Analyzing • Visualizing</text></g><g clip-path="url(#lc-dark-5)"><text x="40" y="170" font-family="monospace" font-size="14" fill="#E5E7EB"><tspan fill="#7DD3FC">ToolChain</tspan><tspan fill="#64748B">: ................... </tspan>Power BI, Fabric, DAX Studio, Git</text></g><g clip-path="url(#lc-dark-7)"><text x="40" y="214" font-family="monospace" font-size="14" fill="#E5E7EB"><tspan fill="#7DD3FC">Core.Lang</tspan><tspan fill="#64748B">: ................... </tspan>DAX, SQL, Python (Pandas, NumPy)</text></g><g clip-path="url(#lc-dark-8)"><text x="40" y="236" font-family="monospace" font-size="14" fill="#E5E7EB"><tspan fill="#7DD3FC">Core.BITools</tspan><tspan fill="#64748B">: ................ </tspan>Power BI Desktop/Service, Paginated Reports</text></g><g clip-path="url(#lc-dark-9)"><text x="40" y="258" font-family="monospace" font-size="14" fill="#E5E7EB"><tspan fill="#7DD3FC">Core.ETL</tspan><tspan fill="#64748B">: .................... </tspan>Power Query (M), ETL, Row-Level Security</text></g><g clip-path="url(#lc-dark-10)"><text x="40" y="280" font-family="monospace" font-size="14" fill="#E5E7EB"><tspan fill="#7DD3FC">Core.Data</tspan><tspan fill="#64748B">: ................... </tspan>SQL Server, MySQL, OneLake (Fabric)</text></g><g clip-path="url(#lc-dark-11)"><text x="40" y="302" font-family="monospace" font-size="14" fill="#E5E7EB"><tspan fill="#7DD3FC">Core.Other</tspan><tspan fill="#64748B">: .................. </tspan>Power Automate, Data Gateway, Excel</text></g><text x="40" y="346" font-family="monospace" font-size="14" fill="#64748B" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.33s" fill="freeze"/>- Contact ------------------------------------------------------------</text><g clip-path="url(#lc-dark-14)"><text x="40" y="368" font-family="monospace" font-size="14" fill="#E5E7EB"><tspan fill="#7DD3FC">Grid.Mail</tspan><tspan fill="#64748B">: ................... </tspan>chandrus0131@gmail.com</text></g><g clip-path="url(#lc-dark-15)"><text x="40" y="390" font-family="monospace" font-size="14" fill="#E5E7EB"><tspan fill="#7DD3FC">Grid.LinkedIn</tspan><tspan fill="#64748B">: ............... </tspan>chandrus-1b21bb228</text></g><g clip-path="url(#lc-dark-16)"><text x="40" y="412" font-family="monospace" font-size="14" fill="#E5E7EB"><tspan fill="#7DD3FC">Grid.Github</tspan><tspan fill="#64748B">: ................. </tspan>Ck0131</text></g>
+
+  <rect x="40" y="546" width="1100" height="1" fill="#64748B" opacity="0.3"/>
+  <text x="40" y="568" font-family="monospace" font-size="11" fill="#64748B">See live GitHub stats badges below in README ↓</text>
+
+  <text x="24" y="590" font-family="monospace" font-size="13" fill="#10B981">
+    chandru@devos ~ % ./profile.sh --live
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </text>
+</g>
+</svg>
