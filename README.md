@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Ck0131&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Ck0131&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Ck0131&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
